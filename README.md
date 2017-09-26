@@ -1,4 +1,4 @@
-# Numerical Problem Solving course - Spring 2017 - Metropolia UAS
+# Numerical Problem Solving course - Spring 2017 - Metropolia UAS  
 The aim of this course is to introduce the most common mathematical and numerical methods and tools that are used for solving engineering problems.  
 * Week 1: Preparation and start up (18.1.2017)
 * Week 2: Approximation and round-off errors  
@@ -14,4 +14,3 @@ The aim of this course is to introduce the most common mathematical and numerica
 * Week 12: Curve fitting
 * Week 13: Numerical integration
 * Week 14: Review (3.5.2017)
-* Week 15: Test (10.5.2017)
